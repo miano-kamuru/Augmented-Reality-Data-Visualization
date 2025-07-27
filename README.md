@@ -5,7 +5,7 @@ This project explores how AR can enhance data visualization, allowing users to i
   data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/reel/CtX26g5rqYA/?utm_source=ig_web_copy_link" 
   style="max-width:540px; min-width:326px; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
 </blockquote> 
-{% include instagramPlayer.html id=page.instagramId %}
+{% include instagramPlayer.html id=page.https://www.instagram.com/reel/CtX26g5rqYA/?utm_source=ig_web_copy_link %}
 
 <script async src="//www.instagram.com/embed.js"></script>
 # Screenshots 

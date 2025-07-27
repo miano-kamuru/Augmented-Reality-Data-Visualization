@@ -4,7 +4,6 @@ This project explores how AR can enhance data visualization, allowing users to i
 ![alt text](https://github.com/miano-kamuru/Augmented-Reality-Data-Visualization/blob/main/screenshot%201.png)
 ![alt text](https://github.com/miano-kamuru/Augmented-Reality-Data-Visualization/blob/main/screenshot%202.png)
 ![alt text](https://github.com/miano-kamuru/Augmented-Reality-Data-Visualization/blob/main/screenshot%203.png)
-![alt text](https://img.youtube.com/vi/kj8tagckTfE/0.jpg)]("https://www.youtube.com/shorts/kj8tagckTfE")
 
 ## Features:
 - 📐 3D Scatterplot Rendering: Prototype includes depth, color, and size to represent multiple dimensions of data.

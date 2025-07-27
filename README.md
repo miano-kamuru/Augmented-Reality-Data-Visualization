@@ -1,6 +1,6 @@
 #  Visualizing Data with Augmented Reality 
 This project explores how AR can enhance data visualization, allowing users to intuitively explore and interact with 3D Graphs in the real-world environment. It was featured by the datavizsociety https://www.instagram.com/reel/CtX26g5rqYA/?utm_source=ig_web_copy_link
-<blockquote 
+<blockquote>
   class="instagram-media" 
   data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/reel/CtX26g5rqYA/?utm_source=ig_web_copy_link" 
   style="max-width:540px; min-width:326px; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
